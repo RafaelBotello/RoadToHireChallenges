@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "name": "Skyler",
+    "salary": 200000,
+    "departmentName": "Music"
+  },
+  {
+    "id": 1,
+    "name": "Lovepreet",
+    "salary": 42000,
+    "departmentName": "Tech"
+  },
+  {
+    "id": 2,
+    "name": "Rafael",
+    "salary": 42000,
+    "departmentName": "Tech"
+  },
+  {
+    "id": 3,
+    "name": "Emma",
+    "salary": 32000,
+    "departmentName": "Design"
+  },
+  {
+    "id": 4,
+    "name": "Celio",
+    "salary": 100000,
+    "departmentName": "Tech"
+  },
+  {
+    "id": 5,
+    "name": "Ryan",
+    "salary": 70000,
+    "departmentName": "Chemistry"
+  },
+  {
+    "id": 6,
+    "name": "John",
+    "salary": 120000,
+    "departmentName": "Sales"
+  },
+  {
+    "id": 7,
+    "name": "Juan",
+    "salary": 80000,
+    "departmentName": "Real estate"
+  },
+  {
+    "id": 8,
+    "name": "Darwin",
+    "salary": 90000,
+    "departmentName": "Tech"
+  },
+  {
+    "id": 9,
+    "name": "Eriana",
+    "salary": 66000,
+    "departmentName": "Tech"
+  },
+  {
+    "id": 10,
+    "name": "Rochelly",
+    "salary": 80000,
+    "departmentName": "Health"
+  }
+]

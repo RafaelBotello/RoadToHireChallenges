@@ -1,0 +1,15 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "Echo 'Challenges'"
+  },
+  "keywords": [
+    "Challenge",
+    "React"
+  ],
+  "author": "Rafael Botello",
+  "license": "ISC"
+}

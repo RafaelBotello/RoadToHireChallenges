@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Calculator</title>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Operations</title>
+      </head>
+      <body>
+        <script>
+          var num1 = prompt("Enter a number: ");
+          var op = prompt("Enter an operator: ");
+          var num2 = prompt("Enter a second number: ");
+          var n1 = parseInt(num1);
+          var n2 = parseInt(num2);
+
+          function add(x, y) {
+            return x + y;
+          }
+
+          function subtract(x, y) {
+            return x - y;
+          }
+
+          function multiply(x, y) {
+            return x * y;
+          }
+
+          function divide(x, y) {
+            return x / y;
+          }
+
+          var addresult = add(n1, n2);
+          var subresult = subtract(n1, n2);
+          var mulresult = multiply(n1, n2);
+          var divresult = divide(n1, n2);
+
+          switch (op) {
+            case "+":
+              console.log(n1 + " + " + n2 + " = " + addresult);
+              break;
+            case "-":
+              console.log(n1 + " - " + n2 + " = " + subresult);
+              break;
+            case "*":
+              console.log(n1 + " * " + n2 + " = " + mulresult);
+              break;
+            case "/":
+              console.log(n1 + " / " + n2 + " = " + divresult);
+              break;
+          }
+        </script>
+      </body>
+    </html>
+  </body>
+</html>
