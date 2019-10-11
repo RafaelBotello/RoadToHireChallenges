@@ -1,0 +1,15 @@
+.btn-like {
+  transition: 1s;
+}
+
+.btn-like:hover {
+  color: #007bff;
+}
+
+.btn-dislike {
+  transition: 1s;
+}
+
+.btn-dislike:hover {
+  color: #dc3545;
+}

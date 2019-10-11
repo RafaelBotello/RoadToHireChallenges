@@ -1,0 +1,36 @@
+.comments {
+  margin: 10px;
+}
+
+.comments button {
+  float: right;
+  margin: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+.remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.remove:hover {
+  color: #d50000;
+}
+
+.media-body button {
+  display: inline-block;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.dislike button {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}

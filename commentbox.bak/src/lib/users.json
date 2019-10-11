@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "num": "001",
+    "name": "Bulbasaur",
+    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "comment": "I am a Bulbasaur"
+  },
+  {
+    "id": 2,
+    "num": "025",
+    "name": "Pikachu",
+    "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "comment": "I am a Pikachu"
+  }
+]
